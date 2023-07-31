@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    Padding: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.main {
+    margin-top: 150px;
+    width: 450px;
+    height: 350px;
+    box-shadow: 2px 2px 5px #cccccc;
+}
+
+.heading {
+    padding-top: 30px;
+    width: 100%;
+    height: 100px;
+    display: flex;
+}
+
+.return {
+    width: 90px;
+    height: 100%;
+}
+
+.logo {
+    width: 90%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo img {
+    width: 200px;
+    height: 80px;
+    padding-right: 90px;
+}
+
+.loginform{
+    padding-left: 99px;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.id{
+    padding-top: 30px;
+    padding-bottom: 15px;
+    justify-content: center;
+}
+
+.id input {
+    padding-left: 10px;
+    height: 30px;
+    width: 250px;
+}
+
+.password{
+    justify-content: center;
+    padding-bottom: 3px;
+}
+
+.password input{
+    padding-left: 10px;
+    height: 30px;
+    width: 250px;
+}
+
+.btn2{
+    border: none;
+    background-color: none;
+    size: 12px;
+}
+
+.btn3{
+    background-color: none;
+    border: none;
+    size: 12px;
+}
+
+.bottomtext{
+    padding-left: 100px;
+    padding-right: 97px;
+    display: flex;
+    justify-content: space-between;
+    font-size: small;
+}
+
+.btn{
+    background-color: crimson;
+    color: white;
+    border-radius: 20px;
+    border: none;
+    width: 255px;
+    height: 25px;
+    margin-left: 15px;
+    justify-content: center;
+}
+
+.login-div {
+    padding-top: 25px;
+    padding-bottom: 15px;
+    width: 100;
+    display: flex;
+    justify-content: center;
+}
+

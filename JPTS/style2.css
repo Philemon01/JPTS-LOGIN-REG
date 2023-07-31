@@ -1,0 +1,234 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.main{
+    margin-top: 150px;
+    margin-bottom: 150px;
+    width: 600px;
+    height: 650px;
+    box-shadow: 2px 2px 5px #cccccc;
+    
+}
+
+.heading {
+    padding-top: 5px;
+    width: 100%;
+    height: 90px;
+    display: flex;
+}
+
+.return {
+    width: 90px;
+    height: 100%;
+    justify-content: center;
+}
+
+.return img {
+    padding-top: 20px;
+    padding-left: 30px;
+}
+
+.logo {
+    width: 90%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo img {
+    width: 200px;
+    height: 80px;
+    padding-right: 90px;
+}
+
+.CA{
+    padding-top: 30px;
+    padding-left: 100px;
+    color: rgb(7, 7, 78);
+}
+
+.h1{
+    padding-top: 20px;
+    padding-right: 50px;
+    padding-left: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Reg1 {
+    padding-left: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.sn {
+    margin-right: 169px;
+}
+
+.acc2 {
+    margin-right: 110px;
+}
+
+.Reg2 {
+    padding-top: 10px;
+    margin-left: 100px;
+}
+
+.g {
+    padding-top: 10px;
+}
+
+.RegS {
+    padding-left: 100px;
+}
+
+.dept {
+    padding-top: 10px;
+}
+
+.mat {
+    padding-top: 10px;
+}
+
+.so {
+    padding-top: 10px;
+}
+
+.email {
+    padding-top: 10px;
+}
+
+.Reg4 {
+    margin-left: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.h2 {
+    padding-top: 10px;
+    margin-left: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.cpwd {
+    margin-right: 169px;
+}
+
+.acc10 {
+    margin-right: 107px;
+}
+
+.acc1 input {
+    height: 20px;
+    padding-left: 7px;
+    height: 25px;
+    border: none;
+    border-radius: 2px;
+    background-color: #D6CDCD
+}
+
+.acc2 input {
+    height: 20px;
+    padding-left: 7px;
+    height: 25px;
+    border: none;
+    border-radius: 2px;
+    background-color: #D6CDCD
+}
+
+.acc3 input{
+    padding-left: 7px;
+    width: 390px;
+    height: 25px;
+    border: none;
+    border-radius: 2px;
+    background-color: #D6CDCD
+}
+
+.acc4 input{
+    padding-left: 7px;
+    width: 390px;
+    height: 25px;
+    border: none;
+    border-radius: 2px;
+    background-color: #D6CDCD
+}
+
+.acc5 input{
+    padding-left: 7px;
+    width: 390px;
+    height: 25px;
+    border: none;
+    border-radius: 2px;
+    background-color: #D6CDCD
+}
+
+.acc6 input{
+    padding-left: 7px;
+    width: 390px;
+    height: 25px;
+    border: none;
+    border-radius: 2px;
+    background-color: #D6CDCD
+}
+
+.acc7 input{
+    padding-left: 7px;
+    width: 390px;
+    height: 25px;
+    border: none;
+    border-radius: 2px;
+    background-color: #D6CDCD
+}
+
+.acc8 input {
+    padding-left: 7px;
+    width: 390px;
+    height: 25px;
+    border: none;
+    border-radius: 2px;
+    background-color: #D6CDCD
+}
+
+.acc9 input {
+    height: 20px;
+    padding-left: 7px;
+    height: 25px;
+    border: none;
+    border-radius: 2px;
+    background-color: #D6CDCD
+}
+
+.acc10 input {
+    height: 20px;
+    padding-left: 7px;
+    height: 25px;
+    border: none;
+    border-radius: 2px;
+    background-color: #D6CDCD
+}
+
+.regbtn {
+    padding-top: 15px;
+    display: flex;
+    justify-content: center;
+}
+
+.btn {
+    width: 400px;
+    height: 25px;
+    border: none;
+    border-radius: 32px;
+    color: white;
+    background-color: rgb(7, 7, 78);
+}
